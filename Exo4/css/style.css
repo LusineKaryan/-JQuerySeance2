@@ -1,0 +1,14 @@
+div {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    background: red;
+    width: 150px;
+    height: 150px;
+}
+
+div:nth-child(2) {
+    left: 100px;
+    top: 100px;
+    background: blue;
+}
