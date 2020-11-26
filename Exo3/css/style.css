@@ -1,3 +1,4 @@
+/*
 #box {
     width: 200px;
     height: 160px;
@@ -5,5 +6,12 @@
     margin: 20px;
     font-size: 20px;
     padding: 10px;
+}
+*/
+
+#box {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(134, 0, 22);
 }
 

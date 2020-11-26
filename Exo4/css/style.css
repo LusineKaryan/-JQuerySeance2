@@ -1,3 +1,4 @@
+/*
 div {
     position: absolute;
     left: 50px;
@@ -11,4 +12,11 @@ div:nth-child(2) {
     left: 100px;
     top: 100px;
     background: blue;
+}
+*/
+
+div {
+    color: white;
+    background-color: blue;
+    width: 100%;
 }

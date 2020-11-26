@@ -1,12 +1,23 @@
-.Boite {
+/*.Boite {
     width: 200px;
     height: 200px;
     background-color: yellow;
     margin: 20px;
-    position: relative;
-   
+    position: relative;  
 }
+*/
 
-.Boite.animate {
+/*
+.Boite.animate {                            //Deystvuet so II varianton js Lus
     transform: translate3d(50px, 0, 0);
-  }
+}
+*/
+
+div {
+    position: absolute;
+    background-color: #B0E0E6;
+    left: 40px;
+    width: 80px;
+    height: 80px;
+    margin: 25px;
+}
